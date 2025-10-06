@@ -16,7 +16,7 @@ Built for the **ASE Challenge** to demonstrate frontend development skills, clea
 
 ---
 
-## **Project Goal**
+#  Project Goal
 
 - Display current weather (temperature, humidity, wind speed, "feels like") for any city.
 - Show a 5-day forecast at noon.
@@ -25,7 +25,7 @@ Built for the **ASE Challenge** to demonstrate frontend development skills, clea
 
 ---
 
-## **Core Features**
+#  Core Features
 
 - Search bar to enter a city name.
 - Fetch data from OpenWeatherMap API.
@@ -37,7 +37,7 @@ Built for the **ASE Challenge** to demonstrate frontend development skills, clea
 
 ---
 
-## **Tech Stack**
+#  Tech Stack
 
 - **Frontend:** React.js, CSS (Glassmorphism & Glow Effects)
 - **API:** OpenWeatherMap
@@ -46,7 +46,7 @@ Built for the **ASE Challenge** to demonstrate frontend development skills, clea
 
 ---
 
-## **Setup Instructions**
+#  Setup Instructions
 
 1. Clone the repository:
 ```bash
@@ -89,7 +89,7 @@ npm start
 
 ---
 
-## **Evaluation Criteria Covered**
+#  Evaluation Criteria Covered
 
 * Good component structure and clean UI.
 * Effective state management (`loading`, `error`, `data`).
@@ -98,7 +98,7 @@ npm start
 
 ---
 
-## **Submission Info**
+#  Submission Info
 
 * Built as part of the **ASE Challenge 💪🔥🚀**.
 * Challenge deadline: `6th October 2025`.
@@ -106,13 +106,13 @@ npm start
 
 ---
 
-## **Screenshots**
+# *Screenshots*
 
 <img width="1890" height="925" alt="image" src="https://github.com/user-attachments/assets/5eb30eaf-1e54-4e47-a634-d19d37198d8b" />
 
 ---
 
-## **Author**
+# *Author*
 
 **Atharv Ramesh Kulkarni**
 
