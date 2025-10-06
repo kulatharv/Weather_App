@@ -6,10 +6,10 @@ React Weather App | Current Weather & 5-Day Forecast | Glow Effects | Responsive
 
 ---
 
-## **README.md**
+## README.md
 
 ````markdown
-# Weather App 🌤️✨
+# Weather App
 
 A clean and simple single-page React application to display the weather for any city.  
 Built for the **ASE Challenge** to demonstrate frontend development skills, clean code, and responsive UI design.
@@ -108,14 +108,14 @@ npm start
 
 ## **Screenshots**
 
-*(Add screenshots here for better presentation in GitHub)*
+<img width="1890" height="925" alt="image" src="https://github.com/user-attachments/assets/5eb30eaf-1e54-4e47-a634-d19d37198d8b" />
 
 ---
 
 ## **Author**
 
 **Atharv Ramesh Kulkarni**
-www.linkedin.com/in/
+
 
 
 
