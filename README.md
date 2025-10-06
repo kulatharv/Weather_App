@@ -1,11 +1,8 @@
-Got it! You want a **concise GitHub repository description** and README content specifically for the **ASE Challenge** that includes your Weather App project details and aligns with their instructions. Here's a polished version you can use:
 
----
 
-## **GitHub Repository Description**
-
-**Short Description (GitHub repo tagline):**
-`React Weather App | Current Weather & 5-Day Forecast | Glow Effects | Responsive UI`
+## **Weather App With 5 Days Forcast**
+`
+React Weather App | Current Weather & 5-Day Forecast | Glow Effects | Responsive UI`
 
 ---
 
@@ -118,8 +115,11 @@ npm start
 ## **Author**
 
 **Atharv Ramesh Kulkarni**
+www.linkedin.com/in/
 
-* [LinkedIn](https://www.linkedin.com/in/atharvkulkarni/)
+
+
+* [LinkedIn](https://www.linkedin.com/in/atharvkul02/)
 * Contact: [atharvkul02@gmail.com](mailto:atharvkul02@gmail.com)
 
 ```
